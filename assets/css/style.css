@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+p{
+    color: aliceblue;
+}
+.navbar{
+    background-image: url("../imgs/des.png")
+}
+section .container {
+    background-image: url("../imgs/des.png");
+}
